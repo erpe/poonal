@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=poonal
+Exec=qmlscene $@ Main.qml
+Icon=poonal.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

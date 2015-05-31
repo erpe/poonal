@@ -1,0 +1,17 @@
+{
+    "name": "poonal.rene-so36",
+    "description": "description of poonal",
+    "architecture": "all",
+    "title": "poonal",
+    "hooks": {
+        "poonal": {
+            "apparmor": "poonal.apparmor",
+            "desktop":  "poonal.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "rene paulokat <rene@so36.net>",
+    "framework" : "ubuntu-sdk-14.10-qml"
+}
+
+
